@@ -28,13 +28,11 @@ This project demonstrates building RESTful web services using Kotlin and Spring 
 - H2 Database : Provides a fast in-memory database that supports JDBC API and R2DBC access, with a small (2mb) footprint. Supports embedded and server modes as well as a browser based console application.
 - Validation : (i/o) Bean Validation with Hibernate validator.
 
-<img width="869" alt="Screenshot 2025-06-11 at 3 32 53 PM" src="https://github.com/user-attachments/assets/6d139fe8-d7b2-48bd-9683-465ebd1225bc" />
+![WhatsApp Image 2025-06-22 at 13 50 37_6e9a8099](https://github.com/user-attachments/assets/56cb184f-faf2-48f3-a45a-bb2227dcb48e)
 
 ## Use of REST calls via Springboot
-
-<img width="1074" alt="Screenshot 2025-06-11 at 8 45 17 PM" src="https://github.com/user-attachments/assets/0da8c04d-774b-43b1-888e-3f04de120c2f" />
+![WhatsApp Image 2025-06-22 at 13 51 27_929a320e](https://github.com/user-attachments/assets/12269de5-28f3-4643-b560-91ee8f4727de)
 
 ## HTTP Client Request
-![Screenshot 2025-06-11 at 3 33 49 PM (2)](https://github.com/user-attachments/assets/9e25a261-6280-436d-8513-3d3a45603ce0)
-
+![WhatsApp Image 2025-06-22 at 13 50 55_54fbdf17](https://github.com/user-attachments/assets/f884bcbb-b731-474b-8b0c-2b927029ae35)
 
